@@ -1,4 +1,4 @@
-# Kalshi Prediction Market Sentiment Analyzer
+# Public Sentiment Analyzer
 
 A research tool that monitors niche subreddits (and optional web sources) for discussion about events listed on Kalshi. It uses an LLM to analyze sentiment and estimate implied probabilities from forum content, and logs analysis results for comparison with market prices.
 

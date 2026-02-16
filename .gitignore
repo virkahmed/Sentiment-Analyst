@@ -1,0 +1,10 @@
+.env
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+*.sqlite
+*.db
+.venv/
+venv/
+.env.local
